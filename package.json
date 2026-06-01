@@ -1,1 +1,0 @@
-"build": "vite build && mkdir -p .output && cp -r dist/* .output/ 2>/dev/null || :",
