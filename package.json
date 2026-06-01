@@ -7,7 +7,7 @@
     "start": "node .output/server/index.mjs"
   },
   "dependencies": {
-    "@tanstack/react-start": "1.15.0",
+    "@tanstack/react-start": "1.15.8",
     "react": "19.0.0-rc-66a32d18b4-20241205",
     "react-dom": "19.0.0-rc-66a32d18b4-20241205",
     "convex": "1.13.0",
